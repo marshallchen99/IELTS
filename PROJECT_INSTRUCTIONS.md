@@ -161,14 +161,14 @@ Runtian，中国，UTC+8。目标：**雅思口语 Part 3 从 6.0 提到 6.5+**�
 ````
 ## 📍 当前状态（由 Claude 每场自动重出，你整段替换）
 
-**最后一场：** Day 3 · 2026-08-12 到家出声场（Education，语音，8 题）
-**下一场：** Day 4 早通勤（Technology & Social Media）
+**最后一场：** Day 5 · 2026-08-14 到家出声场（Society，语音，8 题）   ← 范例数据，非真实
+**下一场：** Day 6 全真模考
 
 ### 📊 排行榜（每场重排）
 
 | # | 类型 | 本场 | 累计 | 状态 |
 |:--:|---|:--:|---|---|
-| 1 | 空话式开场（第一句零信息） | 2 | Day1 出声 5／Day2 3／Day3 4 | 🟡 **头号** · 时间成本，非语法错 |
+| 1 | 空话式开场（第一句零信息） | 2 | ≈15 | 🟡 **头号** · 时间成本，非语法错 |
 | 2 | 主语漂移 / 代词悬空 | 1 | 7 | 🔴 可懂度 |
 | 3 | 缺 For example ／ 例子无结果 | 2 | 4 | 🟡 结构 |
 | 4 | which 该用 so | 0 | 3 | 🟢 连续一场 0，再一场就降级 |
@@ -183,9 +183,9 @@ Runtian，中国，UTC+8。目标：**雅思口语 Part 3 从 6.0 提到 6.5+**�
 ### 🕓 待入库（下次重出完整错误日志时清空）
 
 **时间线新行**
-| 08-12 | Day 3 · 到家出声场（8 题） | 语音 | Education | 22:40 – 23:35 |
+| 08-14 | Day 5 · 到家出声场（8 题） | 语音 | Society | 22:40 – 23:35 |
 
-**Day 3 出声场（Education，语音，8 题）**
+**Day 5 出声场（Society，语音，8 题）**
 - Q1 | rote learning **are** boring → **is** boring（不可数）
 - Q3 | 只讲现在，漏掉"以前" → 补 `People used to…`（自动动作第 4 次未触发）
 - Q4 | students… **you** have to keep up → 🎯 靶子②，一路用 **they**
@@ -225,68 +225,44 @@ Runtian，中国，UTC+8。目标：**雅思口语 Part 3 从 6.0 提到 6.5+**�
 
 ## 📍 当前状态（由 Claude 每场自动重出，你整段替换）
 
-**最后一场：** Day 3 · 2026-08-12 早通勤场（Education，打字，4 题，Q5 未做）
-**下一场：** Day 3 晚通勤（Education 骨架速写，含未做的 Q5「Should higher education be free?」）→ Day 3 到家出声场
+**最后一场：** Day 3 · 2026-08-12 到家出声场（Education，语音，5 题 / 6 轮，Q1 重做一次，Q5 未完成）
+**下一场：** Day 4 早通勤（Technology & Social Media）
 
 ### 📊 排行榜（每场重排）
 
-| # | 类型 | 本场 | 累计 | 状态 |
-|:--:|---|:--:|---|---|
-| 1 | **主语漂移 / 代词悬空** | 1 | 6 | 🔴 **可懂度** · 本场 Q3（you→people），Q1/Q2/Q4 全过 |
-| 2 | **三单 -s ／ 主谓一致隔从句** | 1 | 4 | 🔴 **可懂度** · 本场 Q1（skills… **is**）。出声场已连续干净，**漏的都在打字场** |
-| 3 | 空话式开场（第一句零信息） | 2 | 11 | 🟡 **时间成本，非语法错** · 理由都兑现了，债没欠。**次数最多，但不占监控注意力** —— 见下方自动动作 |
-| 4 | 缺 For example ／ 例子无结果 | 2 | 3 | 🟠 结构 · Q1 完全没有，Q4 只有 5 词半截 |
-| 5 | 缺收尾 So yeah | 2 | — | 🟡 结构 · Q2、Q3 无落地；Q4 有 ✅ |
-| 6 | which 该用 so | 2 | 3 | 🟡 Q2、Q4 各 1（Q3 执行成功一次） |
-| 7 | 单复数 | 3 | — | 🟢 观察 · the same **thing**（第 2 次）／**foods** ／ their **life** |
-| 8 | 绝对化副词（always / will） | 1 | 3 | 🟢 观察 · exams **always** require |
-| ✅ | `where` 从句 ／ 否定不定式 ／ `tend to` 词组 ／ 同类事物比较题两边都碰 | — | — | ✅ **已划掉，别再练** |
+| # | 类型 | 出声场 | 全天 | 累计 | 状态 |
+|:--:|---|:--:|:--:|:--:|---|
+| 1 | **自我重复修正 / 回头重说** | **4** | 4 | **7** | 🔴🔴 **新头号 · 直接扣流利度** · Q1 重开 1 次、Q5 连开 4 次后卡死整题未完成。打字场测不出 |
+| 2 | **缺 For example ／ 例子无结果** | 1 | **3** | 6 | 🟠 结构 · 出声 Q4 全无；晚通勤 Q5 全无；早通勤 Q1 全无 + Q4 半截 |
+| 3 | **which 该用 so** | **3** | 4 | **7** | 🟡 出声 Q2×1、Q3×2；晚通勤 Q7×1。**出声场比打字场还多** |
+| 4 | **意思说反 / 词义搞错** | 0 | **3** | **5** | 🔴 **可懂度最严重** · `obligatory`≠免费、`basements`=地下室、`not free at all` 意思反（第 2 次同形态） |
+| 5 | **名词化 `the ___ of ___`** | 1 | **3** | 3 | 🟠 **出声场专属卡点，新增** · Q1 说完 `the advancement of technology` 当场句子塌 → 才回头重开 |
+| 6 | 空话式开场（第一句零信息） | 2 | 4 | ≈13 | 🟡 时间成本 |
+| 7 | **审题偏差** | 1 | 1 | 2 | 🟠 出声 Q3 问 safely，答成 distraction + fake info |
+| 8 | **比较题只讲一边**（同类比较） | 0 | **2** | 2 | 🟠 **曾划掉，晚通勤 Q6、Q7 复发**。出声场未测 |
+| — | **三单 -s ／ 主谓一致** | **1** | **8** | 11 | 🟢 **出声场撤靶** · 打字 7 次（第 4–10 次）、出声仅 1 次 |
+| — | **主语漂移 / 代词悬空** | **1** | 3 | 8 | 🟢 **降级** · 出声 Q3 一次，Q1重做/Q2/Q4 全过 |
+| ✅ | `where` ／ 否定不定式 ／ `tend to` 词组 | — | — | — | ✅ 已划掉 |
+| ✅ | **时间比较题甩 used to** | — | — | — | ✅ **今日两次主动触发成功** · 下一场确认一次即正式划掉 |
 
-### 🎯 下一场只盯两个（都选可懂度问题）
+> **本场最重要的发现（推翻了 Day 2 的结论）：**
+> 两个主靶在**出声场基本守住**（-s 1 次、主语 1 次），**同一天打字场却崩**（-s 打字 7 次）。
+> 所以变量**不是打字还是出声，是有没有回头改的机会** —— 打字能改所以不检查；出声不能改反而绑着说。
+> **推论：-s 已经不是考场问题，从出声场靶位撤下。**
 
-1. **一个主语跟到底** —— 题目给了 young people 就**一路接过来用**，绝不中途跳 you / I / them
-2. **-s 隔从句挂住** —— 主语和动词之间夹了从句也要挂住（`skills like working in a group **are**`）；但**情态动词后反而不加**（would **mean**）
+### 🎯 下一场只盯两个
 
-### ⚡ 附带自动动作（练替换，不占监控注意力）
+1. **一次机会，说完往前走** —— 开口后不管多难听都不许回到句首。走不下去用 `what I mean is…` / `or rather…` 往前滑。**这是唯一一条直接影响分数、且只在出声场存在的问题**
+2. **卡住用 `so`，不用 `which`** —— 出声场 3 次，比打字场还多。which 后面还要再判一次单复数，双重风险
 
-1. **第一句必须带信息** —— 开口就是 `One big reason is…`，不许 `there are lots of reasons for that`
-2. **第二个理由用** `And on top of that,` —— 不要 `and another important reason is that`（本场 2 次）
-3. **题干出现 past / future / ago / than before** → 先甩一句 `People used to…`
-   ⚠️ 本场 Q3 **半分**：碰到了过去（several decades ago）但没甩 used to，过去没变成画面。**第 3 次**
-4. **卡住用** `so`，**不用** `which`
+### ⚡ 附带自动动作
+
+1. **第一句必须带信息** —— `One big reason is…`，不许 `there are lots of reasons`
+2. **第二个理由用** `And on top of that,` —— 今日打字场犯 4 次
+3. **题干有 past / ago / than before** → 甩 `People used to…` ✅ **今日两次触发成功，首次自动化**
+4. **不许说 `the ___ of ___`** —— 全部换成主谓句（`the advancement of education` → `as education develops`）
+5. **第一句复述题干关键词** —— 防审题偏差（问 safely 就说 stay safe）
 
 ### 🕓 待入库（下次重出完整错误日志时清空）
 
-**时间线新行**
-
-| 08-12 | Day 3 · 早通勤场（4 题，Q5 未做） | 打字 | Education | — |
-
-**Day 3 早通勤场（Education，打字，4 题）**
-
-- Q1 | essential skills like working in a group **is** important → **are**（🎯 靶子②，从句隔断主谓）
-- Q1 | letting children **to remember** things → letting children **remember** ／ making children **memorise**（let / make 后接原形）
-- Q1 | life long useful → **useful for the rest of their lives**
-- Q1 | 全题无 For example 行 → Part 3 无例子＝空谈
-- Q2 | some **are lean** more towards → some **lean** ／ some **are more into**（两个动词叠加）
-- Q2 | memorize useless things **which are** detrimental → …**so** there's no room for original thinking
-- Q2 | the **history figures** → **historical figures**（且不加 the）
-- Q2 | exams **always** require → exams **mostly** test（绝对化副词）
-- Q2 | another important reason is that → **And on top of that,**
-- Q2 | 无收尾行
-- Q3 | 主语从 **you** 跳到 **people**（🎯 靶子①）→ 题目给了 young people 就一路接过来用
-- Q3 | there are lots of reasons for that（第一句零信息）→ **One big reason is inflation.**
-- Q3 | afford the same **thing** → the same **things**（⚠️ 第 2 次，Day 1 出声场 Q1 犯过）
-- Q3 | **foods** and daily groceries → **food**（泛指不可数）
-- Q3 | far more competitive **than it in the past** → **than it was** ／ **than before**（缺 was）
-- Q3 | the first one is **related to** inflation → the first one **is** inflation（立场行别说虚）
-- Q3 | 碰到过去但没甩 used to → **People used to afford a flat on one salary.**（自动动作第 3 次未触发）
-- Q3 | 无收尾行
-- Q4 | there are a lot of reasons for that（连续第 2 题第一句零信息）→ **One big reason is…**
-- Q4 | a lifelong thing **which** could enrich → …**and it really enriches your life**（which 第 2 次）
-- Q4 | learning for some people**,** is → learning **is** a lifelong thing for some people（逗号切断主谓）
-- Q4 | enrich their **life** → their **lives**
-- Q4 | their major is **unsuitable for** them → **isn't right for** them（太书面）
-- Q4 | learn a new **major** → **study something else** ／ **retrain**（major 只指大学专业）
-- Q4 | and another important reason is that → **And on top of that,**（⚠️ 第 2 次）
-- Q4 | 例子只有 5 词无结果 → 例子必须带结果（…**and it completely changed his weekends**）
-- Q4 | ✅ 靶子①②全过 + 有收尾 —— **本场唯一一题全须全尾**
+*（当前为空 —— Day 3 全天四场的错误已于 2026-08-12 全部并入《IELTS 错误日志》，含新增的类型 12「名词化」与类型 13「意思说反」）*
