@@ -2,8 +2,8 @@
 
 > 每轮口语练习后更新。按**错误类型**排序，不按时间排序 —— 因为要修的是"类型"，不是单个句子。
 >
-> **最后更新：2026-08-12 · Day 3 全天四场结束后（待入库已清空并入本文件）**
-> **下一场：Day 4（2026-08-13，话题 Technology & Social Media）**
+> **最后更新：2026-08-13 · Day 4 到家出声场结束后（待入库已清空并入本文件）**
+> **下一场：Day 5（2026-08-14，话题 Society & Generations）**
 >
 > 📌 **本文件只记语言错误和训练数据。** 协作规则（三小时分配、语言与格式规则、Claude 的操作纪律）统一放在**项目的自定义指令**里，此处不重复。
 
@@ -30,7 +30,8 @@
 | **08-12** | Day 3 · 工作间隙加练（8 句中译英） | 打字 | Education | 工作时段 |
 | **08-12** | Day 3 · 晚通勤场（3 题：Q5/Q6/Q7） | 打字 | Education | 下班通勤 1 小时 |
 | **08-12** | **Day 3 · 到家出声场（5 题 / 6 轮，Q1 重做，Q5 未完成）** | 语音 | Education | 到家后 |
-| 08-13 | Day 4 ⬜ 待做 | — | Technology & Social Media | — |
+| 08-13 | Day 4 · 两场通勤（**无逐题记录，未入库**） | 打字 | Technology & Social Media | — |
+| **08-13** | **Day 4 · 到家出声场（5 题，Q5 未完成）** | 语音 | Technology & Social Media | 到家后 |
 | 08-14 | Day 5 ⬜ 待做 | — | Society & Generations | — |
 | 08-15 | Day 6 ⬜ 待做 | — | 全真模考 + 收网 | — |
 | 08-16（推算） | **下次考试** | — | — | 08-09 时距下次考试约一周 |
@@ -41,185 +42,123 @@
 
 ---
 
-## 🎯 排行榜（Day 3 全天四场后重排）
+## 🎯 排行榜（Day 4 出声场后重排）
 
-> ### 🧭 核心发现已改写（Day 3 推翻了 Day 2 的结论）
+> ### ⚠️ Day 4 推翻了 Day 3 的判断 —— 这是第 3 次"划掉/降级"被打脸
 >
-> **旧结论（Day 2）：** 变量是**输出长度和自由度** —— 写四行短骨架时不犯，放开写/说时会犯。
+> **Day 3 我写的：** "-s 已经不是考场问题，从出声场靶位撤下。它是打字场的懒惰。"
+> **Day 4 的实际：** 出声场 **-s 犯了 6 次**，是全场最高，而且**全部集中在讲人物的连续从句里**。
 >
-> **新结论（Day 3 证据）：** 变量是**有没有回头改的机会**。
+> **这个判断是错的，原因是我只看了一场出声场的数据就下了结论。**
+> Day 3 出声场 -s 只犯 1 次，是因为那天的题目**没让他讲具体的人**；Day 4 一开始举"我朋友 / 我室友"的例子，漏洞立刻全暴露。
 >
-> Day 3 出声场两个主靶几乎全守住（-s 1 次、主语 1 次），**同一天的打字场却崩了**（-s 打字场 7 次）。
-> 打字能改，所以不检查就发出去；**出声不能改，反而绑着说**。
+> **归纳错在哪：** 我把"这一场没犯"当成了"这个能力已经有了"，而没问**这一场有没有真正考到它**。
+
+> ### 🧭 -s 的真实规律（三次修正后的最终版）
 >
-> **推论一：-s 已经不是考场问题，可以从出声场靶位撤下来。** 它是打字场的懒惰，不是嘴上的漏洞。
-> **推论二：以后"某类型是否消除"必须用出声场判定，打字场的数字只用来发现知识盲点。**
+> | 阶段 | 当时的解释 | 被什么推翻 |
+> |---|---|---|
+> | Day 1–2 | "主语和动词隔了从句就忘" | Day 3 晚通勤主谓**紧挨**也漏（第 7–10 次） |
+> | Day 3 | "打字场懒得检查，出声场没问题" | Day 4 出声场漏 6 次 |
+> | **Day 4（当前）** | **「讲具体的人做了什么」这个句型专属** | — |
+>
+> Q4 四次全在同一形状里：`It's a big fan` ／ `talk it online` ／ `he almost don't say` ／ `because him feel`。
+> **只要开始讲一个具体的人做了什么，动词形态就整个失控。**
+>
+> 🔴 **而"讲具体的人"正是好例子的必要条件 —— 两件事撞在一起了。**
+> 这就是为什么它现在是头号：**你越是把例子讲好，越容易在这里翻车。**
 
 > ⚠️ **两类问题分开排：** 🔴🟠 = 可懂度（听不懂 / 听反）；🟡 = 时间成本或结构；🟢 = 观察。
-> 别把"用了某个短语"和"犯了错"混为一谈 —— 见下方 a lot of 一栏。
 
-| 排名 | 错误类型 | Day 3 出声场 | Day 3 全天 | 累计 | 状态 |
-|:---:|---|:---:|:---:|:---:|---|
-| 1 | **自我重复修正 / 回头重说** | **4** | 4 | **7** | 🔴🔴 **新头号 · 直接扣流利度** · Q1 重开 1 次；**Q5 连开 4 次后卡死、整题未完成**。打字场测不出 |
-| 2 | **缺 For example ／ 例子无结果** | **1** | **3** | 6 | 🟠 结构 · 出声 Q4 完全没有；打字 Q5（晚通勤）没有；早通勤 Q1 没有 + Q4 半截 |
-| 3 | **which 该用 so** | **3** | **4** | **7** | 🟡 出声 Q2×1、Q3×2；晚通勤 Q7×1。**出声场比打字场还多** —— which 后面还要再判一次单复数，双重风险 |
-| 4 | **意思说反 / 词义搞错** | 0 | **3** | **5** | 🔴 **可懂度最严重的一类** · `obligatory`≠免费、`basements` 是地下室、`not free at all` 意思反 |
-| 5 | **名词化 `the ___ of ___`** | **1** | **3** | 3 | 🟠 **出声场专属卡点，本场新增** · 出声 Q1 说完 `the advancement of technology` 当场句子塌 |
-| 6 | 空话式开场（第一句零信息） | 2 | 4 | ≈13 | 🟡 时间成本 · 出声 Q2、Q3 各 1 |
-| 7 | **审题偏差** | **1** | 1 | 2 | 🟠 出声 Q3 问 use technology **safely**，答成 distraction + fake info |
-| 8 | **比较题只讲一边**（同类比较） | 0 | **2** | 2 | 🟠 **曾划掉，晚通勤 Q6、Q7 复发** · Q6 只讲 students 没碰 teachers；Q7 只打 exams 没说什么更好 |
-| 9 | 搭配 ／ 过书面词 | 3 | 8 | 持续 | 🟡 `dedicate in`×2 ／ `conducive to` ／ `attractive for` ／ `prohibitively` |
-| — | **三单 -s ／ 主谓一致** | **1** | **8** | **11** | 🟢 **出声场撤靶** · 打字场 7 次（第 4–10 次），出声场仅 Q1 重做 1 次。见上方推论一 |
-| — | **主语漂移 / 代词悬空** | **1** | **3** | 8 | 🟢 **降级** · 出声 Q3 一次（they→you→students），Q1/Q2/Q4 全过 |
-| 🟢 | 可数/不可数 | 0 | 6 | — | 🟢 观察 · `researches` ／ `accounts` ／ `a graduates` ／ `foods` ／ `their life` ／ `the same thing` |
-| 🟢 | 绝对化副词（always / will） | 0 | 2 | 4 | 🟢 观察 · `exams always require` 今日 2 次 |
-| 🟢 | **预告清单**（预告了讲不完） | 0 | 0 | 0 | 🟢 **非错误** · 至今每次都兑现了理由 |
-| ✅ | where ／ 否定不定式 ／ tend to 词组 | — | — | — | ✅ **已划掉，别再练** |
-| ✅ | **时间比较题甩 used to** | — | — | — | ✅ **本日两次主动触发成功**（工作间隙第 3 句、出声 Q1 重做）· **下一场再确认一次即可正式划掉** |
+| 排名 | 错误类型 | 本场 | 累计 | 状态 |
+|:---:|---|:---:|:---:|---|
+| 1 | **三单 -s ／ 主谓一致** | **6** | **17** | 🔴 **新头号 · 出声场靶子回归** · Q3×2、Q4×4，全在"讲人物"的从句里。Day 3 的撤靶判断作废 |
+| 2 | **例子缺时间框** | **2** | 12* | 🟠 结构 · Q2、Q3 带时间点 ✅；Q1（300 个微信好友）、Q4（室友）没有。**有数字没时间，锚不住** |
+| 3 | **过书面词** | **3** | 持续 | 🟠 `conducive to`（历史错词**第 4 次**冒头）／ `detrimental to themselves` ／ `aroused`（词义错） |
+| 4 | **缺立场行** | **1** | 1 | 🟠 **本场新增** · Q4 从 `yeah definitely` 直接跳 `One big reason is`，中间没有那句 ≤12 词的立场 |
+| 5 | **意思说反 / 词义搞错** | **1** | 6 | 🔴 可懂度最严重 · `be aroused by thousands of fraud emails`（aroused 词义完全错，整句塌） |
+| — | **名词化 `the ___ of ___`** | **1** | 4 | 🟢 观察 · Q1 一次，其余四题全清 |
+| — | **主语漂移 / 代词悬空** | **1** | 9 | 🟢 观察 · Q1 `them / their → your` |
+| — | **which 该用 so** | **0** | 7 | 🟢 **连续两场 0** |
+| — | 空话式开场 | **0** | ≈15 | 🟢 `One big reason is` 五题全用出，**已固化** |
+| — | **一次机会，不回头重说** | **0** | 7 | 🟢 **降级** · 出声场 4 题全清（Day 3 是 4 次）。**再一场出声场干净才正式划掉** |
+| ❌ | ~~`it` 悬空~~ | — | — | ❌ **靶子作废，整条删除** —— 见下方核对说明 |
+| ✅ | `where` ／ 否定不定式 ／ `tend to` ／ **used to** ／ **So yeah 收尾** ／ 同类比较题两边都碰 | — | — | ✅ 已划掉 |
 
-### 🔢 计数订正（按待入库逐条数过）
+\* 「例子缺时间框」的累计 12 是**按 Day 4 新标准回溯计数**的结果 —— 之前只要求"例子带结果"，没要求时间点。趋势可信，早期绝对值不可比。
 
-收尾包里有两个累计数与逐条清单对不上，以下为实数：
+### ❌ 作废：`it` 悬空这个靶子（Claude 记错账，本人两次核对核出）
 
-| 类型 | 收尾包写的 | 实数 | 逐条依据 |
-|---|:---:|:---:|---|
-| **三单 -s** | 今日 6 次全在打字场 | **打字 7 次 + 出声 1 次 = 今日 8 次** | 编号第 4–10 次全在打字场（早通勤 Q1、工作间隙 5/6、晚通勤 Q6×2、Q7×2），出声 Q1 重做 1 次未编号 |
-| **which 该用 so** | 累计 6 | **累计 7** | Day 2 工作间隙 1 ＋ Day 3 早通勤 2 ＋ 晚通勤 Q7 1 ＋ 出声 3 |
+`It's because they spend too much time online` —— **这是完全正常的英语**，it 指代题干说的那件事，母语者天天这么说。
+原先记的 4 次里，**只有 `changed it a lot` 是真问题**，而那其实属于"第一句零信息"，不是代词问题。
 
-> 空话式开场的累计标 **≈13**：Day 1 出声场记的是 "5/8 题" 这种比例而非逐次计数，早期无法精确还原。**趋势可信，绝对值不可信。**
+> **这是本人第 3 次核出 Claude 的统计问题**（前两次：Day 2 把 `a lot of` 三种用法混着数成"5/8 回潮"；Day 3 -s 与 which 的累计数）。
+> **规律很清楚：Claude 倾向于把"看起来像某个已知错误类型"的正确用法也记进账。**
+> **对策：本人的回头核对是必要环节，不是可选的。继续保持。**
 
-### 🚨 Day 3 一句话战报
+### 🚨 Day 4 一句话战报
 
-**出声场语法几乎干净，问题全在"能不能把话说完"。**
+**两个靶子的成绩完全相反，而且都很极端。**
 
-- 两个旧主靶（-s、主语）在出声场各只犯 1 次 → **双双降级**
-- 但 **Q5 连续 4 次回头重开后卡死、整题没答完** —— 这在考场上是直接丢一题
-- 收尾 4/4 到位、时间对比结构两次主动触发 —— **结构分已经稳了，卡的是流利度**
+- 🎯 **靶子①（不回头重说）：4 题 0 次** —— Day 3 是 4 次。**出声场首次全清，这是本周最大的单项进步。**
+- 🎯 **靶子②（例子带时间点）：4 个例子命中 2 个** —— Q3 的例子（Weibo + last year + 1000+ users + 主动解释"the Chinese equivalent of Facebook"）**是全周最佳，考官一定听得懂**
+- 🔴 **但 -s 在最要紧的位置崩了** —— 一讲具体的人就失控，而具体的人正是好例子的核心
 
-### ⚖️ 关于 "a lot of" 的更正（重要，别再误伤）
+**换句话说：结构和流利度都已经到位了，现在唯一挡在 6.5 前面的，是讲人物时的动词形态。**
 
-晚场我一度记成 "5/8 回潮"，**这是错的，三种不同的东西被混着数了**：
+## 🚇 Day 5 早通勤只练这三样（其余全部跳过）
 
-| 实际用法 | 出现 | 性质 |
-|---|---|---|
-| a lot of **people / benefits / money / jobs** | Q1、Q2、Q4、Q5 | ✅ **地道正确的英语，不是错误，不记账** |
-| there are a lot of **reasons for that** | Q6、Q7 | 🟡 只是费时间，**且两次理由都兑现了** |
-| there are **wide range of** jobs, they're quite different | Q8 | 🔴 **唯一真问题**：8 秒零信息 + 漏冠词 |
+> **不回头的滑行句已撤下** —— Day 4 出声场 4 题全清，练成了。
+> 这三样全部针对 Day 4 暴露的新漏洞。
 
-> **结论：a lot of 作为量词从靶子表删除。**
-> 唯一要改的是**空话式开场**（"there are wide range of X and they're quite different"）——它占时间却不给信息。
-> Q8 后半段 builder vs accountant 才是内容，直接从那里开口即可。
+**1. 🔴 讲人物 + 挂 -s —— 这是唯一还在漏的语法，且只在最要紧的位置漏**
 
-### 🔧 订正：「used to 两快照 / 比较题」不能整体划掉
+念的时候**每个动词停半拍**，把 -s 咬出来：
 
-原文档在 ✅ 行里把 "比较题只讲一边" 和 "used to 两快照" 一起划掉了，**但同一天晚上就复发了**，必须拆成两个子类型：
+> My roommate **is** a big fan of anime. He **talks** about it online all the time, but he **hardly says** a word in person, because he **feels** embarrassed.
+>
+> One of my friends **registered** on a random website last year, and he **still gets** scam emails today.
+>
+> My cousin **works** for a big company. He **earns** more than I do, but he **complains** about it every day.
 
-| 子类型 | 状态 | 证据 |
-|---|---|---|
-| **同类事物比较**（big vs small company、men vs women） | ✅ **真的消除了** | Day 2 早间 Q4 两边都碰、晚通勤"政府假期"题 on the one hand / on the other hand 两边都讲、晚场 Q7 大小公司都测量 |
-| **时间比较（future vs past / 现在 vs 以前）** | 🟠 **未消除，Day 2 晚场 Q3 又漏** | 题目是 "change jobs more often **in the future than in the past**"，用户全程只讲未来，一句过去都没有。这一条原文档**完全没记录** |
+**规则：例子里一出现 `my roommate` / `one of my friends` / `my cousin`，后面每个动词都要停半拍。**
+（Day 4 出声场 6 次全在这个形状里：`It's a big fan` ／ `talk it online` ／ `he almost don't say` ／ `because him feel`。）
 
-> **修法（Q3 当场给过）：** 一句话就能补上整个比较 —— *People used to stay in one company for life.*
-> used to 是时间比较题的万能钥匙，Day 1 晚场 Q8 也是栽在同一个地方（"several decades ago, people **tend to**"）。**这是同一个毛病的第 2 次。**
+**2. 🟠 例子的时间点 —— 各念 10 遍**
 
-### 🚨 Day 4 只盯两件事（靶子已换）
+> …**last year**, and he still gets them today.
+> …**about two years ago**.
+> …**last week**, actually.
+> …most of those **in the last two years**.
 
-> **-s 和主语漂移双双撤下** —— 它们在出声场已经守住了，继续盯是浪费注意力。
-> 换上的两条**都只在出声场存在**，而出声场才是考场。
+**规则：例子里有了人物和数字还不够，必须有时间点。没有时间点的例子听起来像编的。**
 
-1. **🔴🔴 一次机会，说完往前走。**
-   开口之后**不管多难听都不许回到句首**。走不下去就用 `what I mean is…` / `or rather…` 往前滑。
-   **这是唯一一条直接影响分数、且打字场完全测不出来的问题。** Day 3 出声场 4 次，其中 Q5 因此整题没答完。
+**3. 🟠 立场行不许跳过 —— 念 10 遍**
 
-2. **🟡 卡住用 `so`，不用 `which`。**
-   出声场 3 次，比打字场还多。原因是 which 后面**还要再判断一次单复数**（`which is` / `which are`），双重风险；
-   `so` 后面直接跟完整句子，永远不会错。
+> Yeah, definitely. **People are usually much bolder online.** One big reason is…
+> Yeah, I think so. **It really depends on how serious it is.** One big reason is…
 
-其余静默记录，不打断。
+**规则：`yeah definitely` 之后必须有一句 ≤12 词的立场，才能接 `One big reason is`。**
+（Day 4 Q4 直接跳过去了，答案听起来没有观点。）
 
-### ⚡ 附带自动动作（练替换，不占监控注意力）
+<details>
+<summary>📦 存档：Day 4 的旧清单（已完成，勿再练）</summary>
 
-1. **第一句必须带信息** → `One big reason is…`，不许 `there are lots of reasons for that`
-2. **第二个理由** → `And on top of that,`，不许 `and another important reason is that`（Day 3 打字场犯 4 次）
-3. **题干有 past / ago / than before** → 甩 `People used to…` ／ `In the past… But these days…`
-   ✅ **Day 3 两次主动触发成功，首次自动化。下一场再确认一次就正式划掉。**
-4. **🆕 不许说 `the ___ of ___`** —— 名词化在出声场会让句子当场塌。全部换成主谓句：
-   - `the advancement of technology` → **as technology develops**
-   - `the advancement of education` → **as education develops**
-   - `the dates of important events` → **when things happened**
-5. **🆕 第一句复述题干关键词** —— 防审题偏差。问 `safely` 就说 `stay safe`，问 `fair` 就说 `fair`。
+1. **不回头的滑行句** —— Day 4 出声场 4 题 0 次，✅ 撤下（再确认一场即正式划掉）
+2. **名词化拆解** —— Day 4 只犯 1 次（Q1），其余四题全清，降为观察
+3. **`so` 替换 `which`** —— **连续两场 0 次**，降为观察
 
-### 📐 四行骨架不许缺行
-
-Day 3 全天 **3 题没例子**（早通勤 Q1、晚通勤 Q5、出声 Q4）。这比任何单个语法错都严重。
-
-```
-立场：≤12 词
-Because：一个理由
-For example：一个具体例子 —— 必须带结果，不能只有 5 个词
-So yeah：一句复述立场
-```
-
-**例子必须带结果。** `like learning how to grow plants` 不算例子，`…and it completely changed his weekends` 才算。
-**"学生不自己做作业"是理由不是例子** —— 例子要有具体的人、场景或数字（晚通勤 Q6 的 `40 min/week vs each day` 是本日最佳例子）。
-
----
-
-## 🚇 Day 4 早通勤只练这三样（其余全部跳过）
-
-> **主语锁定和 -s 两组已从晨练里撤掉** —— Day 3 出声场证明它们守得住了。
-> 这三样全部针对**出声场才会出现**的问题。
-
-**1. 🔴 不回头的滑行句 —— 默念 20 遍，练到条件反射**
-
-> …**or rather**, ______.
-> …**what I mean is**, ______.
-> …**let me put it another way** — ______.
-
-**用法：说错了、卡住了，接上这三句里的任意一句，然后往前说。**
-**绝对不许回到句首重来。** 考官对自然的 self-correction 不扣分，对反复重开扣分。
-（Day 3 出声场犯 4 次，Q5 因此整题没答完 —— 这是目前唯一会让你丢掉一整题的毛病。）
-
-**2. 🔴 名词化拆解 —— 各念 10 遍，练到嘴不再往 `the…of…` 上走**
-
-| ❌ 名词化（出声必塌） | ✅ 主谓句 |
-|---|---|
-| the advancement of technology | **as technology develops** |
-| the advancement of education | **as education develops** |
-| the dates of important events | **when things happened** |
-| the improvement of their skills | **as they get better** |
-
-（规则：**只要你嘴里要冒出 `the …… of ……`，立刻改成"主语 + 动词"。**）
-
-**3. 🟡 `so` 替换 `which` —— 念 15 遍**
-
-> …, **so** there's no room for original thinking.
-> …, **so** you pick up new ideas.
-> …, **and** none of that helps you at work.
-
-（which 后面还要再判一次 is/are，双重风险；so 后面直接跟完整句子，永远不会错。
-Day 3 出声场 3 次、打字场 1 次 —— 出声场反而更多。）
+</details>
 
 <details>
 <summary>📦 存档：Day 3 的旧清单（已完成，勿再练）</summary>
 
-1. **主语锁定** —— Day 3 出声场 5 题只犯 1 次，✅ 撤下
-2. **-s 隔从句挂住** —— Day 3 出声场只犯 1 次（打字场 7 次），✅ 出声场撤下
-3. **时间比较题钥匙 used to** —— Day 3 两次主动触发成功，**再确认一次即可正式划掉**
-4. **开场与收尾固定件** —— 收尾 Day 3 出声场 4/4 到位 ✅；开场仍偶发，留在自动动作里
+1. 主语锁定 —— 降为观察（Day 4 仅 1 次）
+2. -s 隔从句挂住 —— ⚠️ **没练成，Day 4 以新形态回归，见上方第 1 条**
+3. 时间比较题钥匙 used to —— ✅ **Day 4 再次主动触发，正式划掉**
+4. 开场与收尾固定件 —— ✅ `One big reason is` 五题全用出、So yeah 收尾已稳，划掉
 
 </details>
-
-<details>
-<summary>📦 存档：Day 2 早上的旧清单（已完成，勿再练）</summary>
-
-1. 禁用词替换：One big reason is... ／ The most common one is... ／ Well, it really depends.
-2. used to 变化题钥匙
-3. -ing 三条：Expressing… isn't always a good idea ／ approaches **to dealing** with stress ／ keep **smiling** and stay polite
-
-</details>
-
----
 
 ## 类型 1 —— 关系词：情境/场合 + 从句 → `where`
 
@@ -357,11 +296,35 @@ Day 3 出声场 3 次、打字场 1 次 —— 出声场反而更多。）
 | group working **abilities is** ／ **exams is** | **are** | 第 9、10 次（Day 3 晚通勤 Q7）。⚠️ **主谓零隔断仍然漏** |
 | if the government **paying** for them | if the government **pays** | Day 3 晚通勤 Q5。🔴 从句缺谓语，动词形态整个没启动 |
 | there **two main reasons** | there **are** two main reasons | Day 3 晚通勤 Q6。漏 be 动词 |
-| this kind of information **or** likely | information **is** likely | Day 3 出声场 Q1 重做 —— **出声场唯一一次** |
+| this kind of information **or** likely | information **is** likely | Day 3 出声场 Q1 重做 |
 
-> **🔧 状态订正（Day 3 关键发现）：** 这一类**在打字场彻底崩了**（今日 7 次，且第 7–10 次是主谓紧挨、零隔断），**但在出声场几乎干净**（5 题只 1 次）。
-> 所以它**不是"隔从句就忘"的知识问题，是打字时懒得检查**。
-> **出声场撤靶；打字场靠"写完扫一眼动词"解决，不占口语注意力。**
+### 🔴 Day 4 —— 「讲人物」形态（本类型的真正病灶）
+
+| 你说的 | 应该说 | 出处 |
+|---|---|---|
+| the company **do not** need | **does not** | Day 4 出声 Q3（第 1 次） |
+| because **then** made | because **they** made | Day 4 出声 Q3（第 2 次） |
+| **It's** a big fan（说的是室友） | **He's** a big fan | Day 4 出声 Q4（第 3 次） |
+| **talk it** online | **he talks about it** online | Day 4 出声 Q4（第 4 次） |
+| he almost **don't say** a word | he **hardly says** a word | Day 4 出声 Q4（第 5 次） |
+| because **him feel shamed** | because **he feels embarrassed** | Day 4 出声 Q4（第 6 次 + 词义） |
+
+> ### 🔧 三次修正后的最终结论（前两次都错了）
+>
+> | 阶段 | 当时的解释 | 被什么推翻 |
+> |---|---|---|
+> | Day 1–2 | "主语和动词隔了从句就忘" | Day 3 晚通勤**主谓紧挨**也漏（第 7–10 次） |
+> | Day 3 | "打字场懒得检查，出声场没问题 → 撤靶" | Day 4 出声场漏 **6 次** |
+> | **Day 4（当前）** | **「讲具体的人做了什么」这个句型专属** | — |
+>
+> **Day 3 那个撤靶判断错在哪：** 只看了一场出声场就下结论。
+> 那天 -s 只犯 1 次，不是因为练成了，而是因为**那天的题目没让他讲具体的人**。
+> **"这一场没犯" ≠ "这个能力已经有了"，得先问这一场有没有真正考到它。**
+>
+> 🔴 **最麻烦的地方：「讲具体的人」正是好例子的必要条件。**
+> 你越是把例子讲好，越会进入这个句型，越容易在这里翻车。**两件事撞在一起，所以它是头号。**
+>
+> **修法：例子里一出现 `my roommate` / `one of my friends` / `my cousin`，后面每个动词停半拍。**
 | a 925er **might don't have** patience | might **not have** patience | 情态动词后直接跟 not + 动词原形 |
 | it is better for us **to don't express** it | better **not to express** it | 不定式否定：**not to do**，永远不用 to don't |
 | would **means** | would **mean** | 🔴 反向错误：情态动词后加了 -s（Day 2 晚场 Q6） |
@@ -439,6 +402,16 @@ Day 3 出声场 3 次、打字场 1 次 —— 出声场反而更多。）
 | this is **the fact that happens** everywhere（Day 3 出声 Q4）| **this happens everywhere** | 名词化 + 冗余 |
 | students **with Internet**（Day 3 出声 Q4）| students **who have the internet** ／ **students these days** | |
 | what they **don't should**（Day 3 出声 Q5）| what they **shouldn't** | 重开压力下语序崩 |
+| **conducive to** themselves（Day 4 出声 Q2）| **that's not good for them** | ⚠️ 历史错词**第 4 次**冒头。这个词直接从词库删掉 |
+| detrimental **to themselves**（Day 4 出声 Q2）| detrimental **to them** | detrimental 本身用对了，反身代词多余 |
+| share too much **their** information（Day 4 出声 Q2）| too much **of their** information | |
+| registered **random website**（Day 4 出声 Q2）| registered **on a random website** | register 后接 on |
+| **these kind of** posts（Day 4 出声 Q3）| **this kind of post** ／ **these posts** | ⚠️ kind of 第 2 次（Day 2 晚场犯过） |
+| **in** social media platforms（Day 4 出声 Q3）| **on** social media platforms | ⚠️ on social media 第 2 次 |
+| **this kind of people**（Day 4 出声 Q4）| **these people** | |
+| different behaviors in different **locations**（Day 4 出声 Q4）| **people act differently online** | locations 像地图上的地点；整句降级成动词更清楚 |
+| have same **interest**（Day 4 出声 Q1）| the same **interests** | |
+| strangers **that played a game with me together**（Day 4 出声 Q1）| strangers **I met playing games** | 中式长定语，together 冗余 |
 | **costumers**（拼写）| **customers** | costume=戏服，customer=顾客 |
 | scrolling **in** social media | scrolling **through** social media | 搭配：scroll through |
 | which **made** them spend | which **makes** them spend | 谈普遍现象用一般现在时 |
@@ -542,6 +515,9 @@ Day 3 出声场 3 次、打字场 1 次 —— 出声场反而更多。）
 | as **the advancement of** education | as **education develops** | Day 3 晚通勤 Q6 |
 | the **dates of** important events | **when things happened** | Day 3 晚通勤 Q7 |
 | this is **the fact that happens** everywhere | **this happens everywhere** | Day 3 出声 Q4 |
+| with **the advancement of** social media | **now that we have social media** | Day 4 出声 Q1 —— **本场唯一一次，其余四题全清** |
+
+> **✅ 好转：** Day 3 全天 3 次 → Day 4 只 1 次。这条晨练有效，**降为观察**。
 
 **规则（背下来）：只要嘴里要冒出 `the …… of ……`，立刻改成"主语 + 动词"。**
 
@@ -561,6 +537,10 @@ Day 3 出声场 3 次、打字场 1 次 —— 出声场反而更多。）
 | **obligatory** education | **义务**教育 | **free** education（免费教育） | Day 3 工作间隙 |
 | the **basements** of research | 研究的**地下室** | **where most research happens** | Day 3 晚通勤 Q5 |
 | less likely to **distract it by** | 它去分散别人注意力 | less likely to **get distracted by** | Day 3 出声 Q2 |
+| privacy can be **aroused by** fraud emails | 隐私被**唤起/激起**（且多用于性唤起，语境极糟） | **once your information is out there, you start getting scam emails** | Day 4 出声 Q2 |
+
+> ⚠️ **`aroused` 这个词直接从词库删掉。** 它最常见的含义会让整句话变得非常尴尬，而你想说的意思跟它完全无关。
+> Day 4 那句说完之后整句就塌了 —— **词义拿不准时，降级成大白话永远安全**。
 
 **两条防线：**
 
@@ -1108,6 +1088,81 @@ Q8 的 **maturely** —— 你极可能说的是 **prematurely**（"physical wor
 
 ---
 
+## 📋 Day 4 · 2026-08-13 到家出声场 · 逐题错误全表（Technology & Social Media · 语音 · 5 题，Q5 未完成）
+
+> 靶子：① 一次机会不回头重说 ② 例子必须带时间点。
+> **靶子战果：① 4 题全清（Day 3 是 4 次，首次全清）；② 4 个例子命中 2 个。**
+> **但 -s 以新形态回归，6 次全在讲人物的从句里 —— 见类型 5。**
+>
+> ⚠️ 本日两场通勤**没有逐题记录**，本表只覆盖出声场。
+
+### Q1 · 科技如何改变交友
+
+| 你说的 | 应该说 | 说明 |
+|---|---|---|
+| with **the advancement of** social media | **now that we have social media** | 🟢 名词化，本场唯一一次 |
+| people used to make friends around **them**… **your** friends introduced **you** | 一路 **their / them** | 主语漂移 |
+| have same **interest** | the same **interests** | |
+| strangers **that played a game with me together** | strangers **I met playing games** | 中式长定语 |
+| 例子有数字（300 个微信好友）但**无时间点** | 加 `most of those in the last two years` | 🎯 靶子② 未命中 |
+
+**✅ `people used to` + nowadays 对比再次主动触发 ／ ✅ 🎯 靶子① 0 次**
+
+### Q2 · 隐私
+
+| 你说的 | 应该说 | 说明 |
+|---|---|---|
+| **conducive to themselves** | **that's not good for them** | 过书面，历史错词**第 4 次** |
+| **detrimental to themselves** | detrimental **to them** | |
+| privacy can **be aroused by** thousands of fraud emails | **once your information is out there, you start getting scam emails** | 🔴 aroused 词义完全错，整句塌 |
+| share too much **their** information | too much **of their** information | |
+| registered **random website** | registered **on a random website** | |
+
+**✅✅ 🎯 靶子② 命中：one of my friends + last year + 至今仍收到 —— 人物、时间、结果齐全**
+**✅ 🎯 靶子① 0 次**
+
+### Q3 · 社交平台该不该管内容
+
+| 你说的 | 应该说 | 说明 |
+|---|---|---|
+| the company **do not** need | **does not** | 🎯 -s 第 1 次 |
+| because **then** made | because **they** made | 🎯 -s 第 2 次 |
+| **these kind of** posts | **this kind of post** ／ **these posts** | |
+| **in** social media platforms | **on** | |
+| 收尾复述题目：`that's my opinion on whether…` | **`So yeah, it depends on how serious the post is`** | 🟠 收尾要给答案，不是复述题目 |
+
+**✅✅ 本场最佳例子（也是全周最佳）：Weibo + last year + 1000+ users + 主动解释 "the Chinese equivalent of Facebook"**
+—— **主动向考官解释本国平台，这个动作非常加分，考官一定听得懂。保持。**
+**✅ 两边都讲了（分享生活 vs 假新闻）**
+
+### Q4 · 网上和现实中的行为差异
+
+| 你说的 | 应该说 | 说明 |
+|---|---|---|
+| **无立场行**，`yeah definitely` 直接跳 `One big reason is` | 中间补一句 `people are usually much bolder online` | 🟠 **本场新增问题** |
+| **It's** a big fan（说的是室友） | **He's** a big fan | 🎯 -s 第 3 次 |
+| **talk it** online | **he talks about it** online | 🎯 -s 第 4 次 |
+| he almost **don't say** a word | he **hardly says** a word | 🎯 -s 第 5 次 |
+| because **him feel shamed** | because **he feels embarrassed** | 🎯 -s 第 6 次 + 词义 |
+| **this kind of people** | **these people** | |
+| different behaviors in different **locations** | **people act differently online** | |
+| 例子有具体人物但**无时间点** | | 🎯 靶子② 未命中 |
+
+**✅ 🎯 靶子① 0 次 —— 四题全清**
+
+### Q5 · 未完成（时间到）
+
+### 📊 本场统计
+
+| 项目 | 结果 |
+|---|---|
+| 🎯 靶子①（不回头重说） | **4 题 0 次** —— Day 3 是 4 次，**出声场首次全清** |
+| 🎯 靶子②（例子带时间点） | 4 个例子命中 **2 个**（Q2、Q3） |
+| 🔴 -s | 出声场 **6 次**，全部集中在 Q3、Q4 讲人物的从句里 |
+| ❌ `it` 悬空 | 经本人两次核对后**作废删除**（见排行榜下方说明） |
+
+---
+
 ## 结构类问题（不是语法，但更影响分数）
 
 > ⚠️ **原文档这一节有严重的内部冲突**：第 0、0b、1 条重复记录同一件事，且都写着"禁用 there are a lot of / a couple of"，
@@ -1134,30 +1189,47 @@ Q8 的 **maturely** —— 你极可能说的是 **prematurely**（"physical wor
 > 🔧 **这是第二个"划掉后复发"的类型**（第一个是收尾）。
 > **规则收紧：一个类型要在打字场和出声场各连续两次干净，才能划掉。** 只在一个场次确认过就划，会反复打脸。
 
-### 3. 🔴🔴 回头重说（Day 3 出声场新头号 · 唯一会让你丢掉整题的问题）
+### 3. ✅ 回头重说 —— **Day 4 已解决**（等一场确认后正式划掉）
 
 | 场次 | 次数 | 后果 |
 |---|:---:|---|
 | Day 2 出声场 | 3（热身）+ 1（Q7 三次尝试） | 扣流利度 |
-| **Day 3 出声场** | **4** | Q1 重开 1 次；**Q5 连开 4 次后卡死，整题未答完** |
+| Day 3 出声场 | **4** | Q1 重开 1 次；**Q5 连开 4 次后卡死，整题未答完** |
+| **Day 4 出声场** | **0** | ✅ **4 题全清，本周最大的单项进步** |
 
-**唯一解法：说完往前走。** 用 `or rather…` / `what I mean is…` 滑过去，**绝不回到句首**。
-考官对自然的 self-correction **不扣分**，对反复重开**扣分**。
+**解法（已生效）：说完往前走。** 用 `or rather…` / `what I mean is…` 滑过去，**绝不回到句首**。
 
-> **诱因可追溯：** Day 3 出声 Q1 是说了 `the advancement of technology`（名词化）→ 接不上 → 句子塌 → 才回头重开。
-> **修掉名词化能直接减少回头重说。** 见类型 12。
+> **为什么一天就练成了：** Day 3 已经确认它的主要诱因是名词化（说了 `the advancement of…` 接不上 → 句子塌 → 回头重开）。
+> Day 4 名词化从 3 次降到 1 次，**回头重说跟着归零** —— 这条因果链被证实了。
+> **修掉诱因比压制症状有效。**
 
-### 4. 🟠 骨架缺行
+### 4. 🟠 骨架缺行 —— 标准已三次收紧
 
-| 缺哪一行 | Day 3 全天 | 后果 |
-|---|:---:|---|
-| For example | **3 题**（早通勤 Q1、晚通勤 Q5、出声 Q4）+ 早通勤 Q4 半截 | Part 3 无例子＝空谈 |
-| So yeah 收尾 | 早通勤 2 题；**出声场 4/4 到位 ✅** | 出声场已修复 |
+| 阶段 | 当时的要求 | 触发原因 |
+|---|---|---|
+| Day 0–2 | 有 For example 行就行 | — |
+| Day 3 | **例子必须带结果** | `like learning how to grow plants` 只有 5 词无结果 |
+| **Day 4** | **例子还必须带时间点** | 有人物、有数字，但没时间点，**听起来像编的** |
+| **Day 4** | **立场行不许跳过** | Q4 从 `yeah definitely` 直接跳 `One big reason is` |
 
-> **例子必须带结果。** `like learning how to grow plants` 不算例子；`…and it completely changed his weekends` 才算。
-> **"学生不自己做作业"是理由不是例子。** 例子要有具体的人、场景或数字 —— 晚通勤 Q6 的 `40 min/week vs each day` 是本日最佳。
->
-> ⚠️ 早通勤时这条推翻了「收尾已成习惯」；**但出声场 4/4 到位，说明收尾在真正要紧的场次是稳的。** 打字场缺收尾是懒，不是不会。
+**当前完整标准（四行，一行都不许缺）：**
+
+```
+立场：≤12 词 —— yeah definitely 不算立场，那只是同意
+Because：One big reason is…
+For example：具体的人 + 时间点 + 结果   ← 三件套缺一不可
+So yeah：给答案，不是复述题目
+```
+
+**合格例子长这样（Day 4 Q3，全周最佳）：**
+> On **Weibo** — that's **the Chinese equivalent of Facebook** — **last year** a post got shared by over **a thousand** users, and it turned out to be completely fake.
+
+平台名 + **主动解释给考官** + 时间点 + 数字 + 结果。**主动解释本国平台这个动作很加分，保持。**
+
+**不合格的：** 300 个微信好友（有数字无时间）／ 我室友爱看动漫（有人物无时间）。
+
+> ⚠️ **收尾也收紧了：** 要**给答案**，不是复述题目。
+> ❌ `that's my opinion on whether…` ✅ `So yeah, it depends on how serious the post is`
 
 ### 5. 🟠 审题偏差（Day 3 升级为独立条目）
 
@@ -1180,51 +1252,69 @@ Q8 的 **maturely** —— 你极可能说的是 **prematurely**（"physical wor
 ### 7. 仍在观察
 
 - **绝对化副词** `always` —— Day 3 打字场 2 次，出声场 0 次
-- **过书面词** `conducive to` / `prohibitively` / `largely` —— 反复冒头，口语一律降级成大白话
+- **过书面词** —— `conducive to`（**已第 4 次**）/ `prohibitively` / `largely` / `aroused`。**这几个直接从词库删掉，别再想着改对**
+
+### 8. 📌 一条方法论教训（三次被打脸后总结）
+
+**判断一个类型"已经练成"之前，先问：这一场真的考到它了吗？**
+
+| 被打脸的判断 | 当时的依据 | 实际 |
+|---|---|---|
+| "收尾已成习惯" | 出声场连续到位 | Day 3 早通勤 2 题没收尾 |
+| "同类比较题两边都碰，已消除" | Day 2 三场做对 | Day 3 晚通勤复发 2 次 |
+| **"-s 出声场已守住，撤靶"** | Day 3 出声场只犯 1 次 | **Day 4 出声场犯 6 次** |
+
+**-s 那次错得最典型：** Day 3 出声场没犯，不是因为练成了，是因为**那天的题目没让他讲具体的人**。
+
+**规则（已执行）：一个类型要在打字场和出声场各连续两次干净，且这两场里都真正出现过该句型，才能划掉。**
 
 ---
 
-## 待办 · Day 4（2026-08-13，话题：Technology & Social Media）
+## 待办 · Day 5（2026-08-14，话题：Society & Generations）
 
-> **靶子已换。** -s 和主语漂移在出声场守住了，撤下；换上的两条**都只在出声场存在**。
+> **靶子已换。** 不回头重说 Day 4 全清，撤下；-s 以「讲人物」形态回归，重上头号。
 
-- [ ] **早通勤 1 小时**：只练「🚇 Day 4 早通勤只练这三样」—— 不回头的滑行句 / 名词化拆解 / `so` 替换 `which`。别看别的
-- [ ] **晚通勤 1 小时**：Technology 骨架速写，每题四行、90 秒、写完不回改
-      - **写完扫一眼所有动词**（打字场 -s 今日漏 7 次，全是懒得检查）
-      - **必须有 For example 行，且例子必须带结果**
-      - 比较题**必须碰另一边**（晚通勤复发 2 次）
-- [ ] **到家 1 小时（语音出声）**：主线靶子仅两个 —— ① **一次机会，说完往前走** ② **卡住用 `so` 不用 `which`**
-- [ ] 附带自动动作五条：`One big reason is` 开场 ／ `And on top of that` 接第二条 ／ 题干有 past/ago 甩 `People used to` ／ **不许说 `the ___ of ___`** ／ **第一句复述题干关键词**
-- [ ] 确认一次 **used to**：再触发成功一次就正式划掉
-- [ ] 每答完一题**当场落盘**，不许攒到最后
-- [ ] 划掉一个类型前，**必须在打字场和出声场各连续两次干净**（已经误划过两次：收尾、同类比较题）
+- [ ] **早通勤 1 小时**：只练「🚇 Day 5 早通勤只练这三样」—— 讲人物挂 -s ／ 例子的时间点 ／ 立场行。别看别的
+- [ ] **晚通勤 1 小时**：Society 骨架速写，每题四行、90 秒、写完不回改
+      - **写完扫一眼所有动词**（打字场 -s 的老问题）
+      - 每个例子自查三件套：**具体的人 ✓ 时间点 ✓ 结果 ✓**
+- [ ] **到家 1 小时（语音出声）**：主线靶子仅两个 —— ① **讲人的时候每个动词挂 -s** ② **例子必须带时间点**
+- [ ] 附带自动动作：立场行不许跳过 ／ 收尾给答案不复述题目 ／ 过书面词一律降级 ／ 卡住用 `so`
+- [ ] 确认一次 **不回头重说**：再一场出声场干净就正式划掉
+- [ ] **⚠️ Day 5 题目大量涉及"两代人"，正是「讲具体的人」的高发区** —— 举例讲爸妈、爷爷奶奶时，每个动词停半拍
 
-**Day 4 题目（来自六天计划）：**
-1. How has technology changed the way people communicate? ⚠️ **时间比较题，甩 used to**
-2. Does social media make people less social in real life?
-3. Should there be an age limit for smartphone use?
-4. Do people rely on technology too much nowadays? ⚠️ **审题：问的是 too much，第一句就要出现 too much**
-5. Will online learning ever replace classrooms?
+**Day 5 题目（来自六天计划）：**
+1. Is the generation gap bigger now than in the past? ⚠️ **时间比较题，甩 used to**
+2. Why do older and younger people often disagree?
+3. Should young people take care of their elderly parents?
+4. Are traditional values disappearing?
+5. How can different generations understand each other better?
 
-**Day 4 零件包：** face-to-face interaction / screen time / scroll mindlessly / stay connected / drift apart / superficial relationships
-（`a double-edged sword` 慎用，太烂大街，改用 `it cuts both ways`）
+**Day 5 零件包：** see eye to eye / be on the same page / grow up in a completely different environment / pass down / hold on to traditions / move with the times
 
-**Day 4 今日专项（来自六天计划）：抗打断训练。**
-每 25 秒响一次提示音模拟考官打断，听到后 5 秒内用 `So overall, …` 把话收干净，不能被切在半句中间。
-⚠️ **这个专项今年格外对症** —— Day 3 出声场 Q5 就是没能把话收住而卡死的。
+⚠️ **本日 `generation` 高频，先复习「📖 generation 用法」一节：**
+主力用 **young people**；`the younger generation` 一整场用一次就够，且**单数动词**；**绝不**说 `a lot of younger generations`。
 
 ---
 
-## 📌 距离考试还剩 3 天（Day 4 / 5 / 6 → 08-16 考试）
+## 📌 距离考试还剩 2 天（Day 5 / Day 6 → 08-16 考试）
 
-**剩下三天只需要做成两件事：**
+**现在的处境很清楚：结构和流利度都到位了，只剩一个漏洞。**
 
-1. **不回头。** 这是唯一会让你丢掉整题的毛病，也是唯一还没解决的核心问题。
-2. **名词化拆解。** 它是"回头"的主要诱因，修掉它等于修掉一半的回头。
+| 项目 | 状态 |
+|---|---|
+| 不回头重说 | ✅ Day 4 全清 |
+| `One big reason is` 开场 | ✅ 五题全用出，已固化 |
+| So yeah 收尾 | ✅ 已稳 |
+| used to 时间对比 | ✅ 已划掉 |
+| which → so | ✅ 连续两场 0 |
+| 名词化 | 🟢 Day 4 只 1 次 |
+| 主语漂移 | 🟢 Day 4 只 1 次 |
+| **讲人物时的 -s** | 🔴 **Day 4 出声场 6 次 —— 唯一还在漏的** |
 
-语法层面（-s、主语、单复数、冠词）**在出声场已经够用了，不要再往上加注意力。**
+**剩下两天只做一件事：把「讲具体的人」和「动词挂 -s」这两个动作焊在一起。**
 
----
+其余全部保持现状，不要再加新东西。Day 6 是模考日，**绝对不学新内容**。
 
 ## 📝 本次修订记录（2026-08-12 全文核对）
 
